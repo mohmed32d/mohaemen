@@ -1,0 +1,6 @@
+[2025-04-26 20:50:47] Database Error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it (Code: 2002)
+File: C:\xampp\htdocs\cyberscan\config.php
+Line: 49
+[2025-04-26 20:52:18] Database Error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it (Code: 2002)
+File: C:\xampp\htdocs\cyberscan\config.php
+Line: 49
